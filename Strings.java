@@ -2,9 +2,9 @@
 //     public static float getshortestpath(String path){ {
 //         int x=0,y=0;
 //         for(int i=0; i<path.length(); i++){
-/             char dir = path.charAt(i);
+//             char dir = path.charAt(i);
 //             // south
-//            if(dir =='s'){
+/            if(dir =='s'){
 //                 y--;
 //             }
 //             //north
