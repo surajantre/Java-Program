@@ -108,7 +108,7 @@
 //         s.push(3);
 //         while(!s .isEmpty()){
 //             System.out.println(s.peek());
-/             s.pop();
+//             s.pop();
 //         }
 
 //     }
@@ -195,7 +195,7 @@
 //             char curr = s.pop();
 //             result.append(curr);
 
-//         }
+/         }
 //         return result.toString();
 
 
