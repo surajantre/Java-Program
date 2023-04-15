@@ -195,7 +195,7 @@
 //             char curr = s.pop();
 //             result.append(curr);
 
-/         }
+//         }
 //         return result.toString();
 
 
@@ -266,7 +266,7 @@
 //     public static void Stackspan(int Stack[],int span[]){
 //         Stack<Integer>S=new Stack<>();
 //         span[0]=1;
-//         S.push(0);
+/         S.push(0);
 
 //         for (int i=0;i<Stack.length;i++){
 //             int currprice=Stack[i];
