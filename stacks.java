@@ -266,7 +266,7 @@
 //     public static void Stackspan(int Stack[],int span[]){
 //         Stack<Integer>S=new Stack<>();
 //         span[0]=1;
-/         S.push(0);
+//         S.push(0);
 
 //         for (int i=0;i<Stack.length;i++){
 //             int currprice=Stack[i];
@@ -313,7 +313,7 @@
 
 // import java.util.*;
 
-// import javax.sound.sampled.SourceDataLine;
+/ import javax.sound.sampled.SourceDataLine;
 // public class stacks{
 //     public static void main(String[] args){
 //         int arr[] = {6,8,0,1,3};
